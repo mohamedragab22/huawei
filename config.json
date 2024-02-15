@@ -5,7 +5,7 @@
   },
   "github": {
     "username": "mohamedragab22",
-    "repository": "general",
+    "repository": "huawei",
     "branch": "main"
   },
   "settings": {
@@ -27,11 +27,11 @@
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-4177691308130545",
-        "app_open_id": "ca-app-pub-4177691308130545/2482007690",
-        "banner_id": "ca-app-pub-4177691308130545/3058353079",
-        "interstitial_id": "ca-app-pub-4177691308130545/2344037207",
-        "rewarded_id": "ca-app-pub-4177691308130545/2671340263",
-        "native_id": "ca-app-pub-4177691308130545/5757486847"
+        "app_open_id": "ca-app-pub-4177691308130545/3553779735",
+        "banner_id": "ca-app-pub-4177691308130545/2415995879",
+        "interstitial_id": "ca-app-pub-4177691308130545/1195209705",
+        "rewarded_id": "ca-app-pub-4177691308130545/2508291377",
+        "native_id": "ca-app-pub-4177691308130545/9568523742"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
